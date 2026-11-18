@@ -1,1 +1,1 @@
-# birthfay-gift
+# birthday-gift
